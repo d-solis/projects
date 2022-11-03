@@ -1,1 +1,1 @@
-# Welcome to Projects a space where I upload things that I'm working on!
+# Welcome to Projects, a website where I upload things that I'm working on!
